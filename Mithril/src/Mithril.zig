@@ -2,7 +2,7 @@ const std = @import("std");
 const testing = std.testing;
 
 const Mithril = struct {
-    export fn print() i32 {
+    export fn print() void {
         std.debug.print("Hello World!", .{});
     }
 };

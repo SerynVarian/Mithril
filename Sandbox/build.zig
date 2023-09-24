@@ -25,8 +25,7 @@ pub fn build(b: *std.Build) void {
     // Include path and library path for Mithril
     exe.addLibraryPath(.{ .path = "../Mithril/zig-out/lib" });
     exe.addIncludePath(.{ .path = "../Mithril/src/Mithril.zig" });
-    exe.linkSystemLibrary("Mithril"); // Link against Mithril's .lib file
-    exe.linkLibC();
+    exe.linkSystemLibrary("Mithril");
 
     // This declares intent for the executable to be installed into the
     // standard location when the user invokes the "install" step (the default
