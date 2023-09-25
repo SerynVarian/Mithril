@@ -1,0 +1,65 @@
+# Mithril Engine Development TODO List
+
+## Core Systems
+- [ ] Initialize basic project structure
+- [ ] Implement a main game loop
+- [ ] Create a windowing system
+- [ ] Implement event handling (keyboard, mouse, etc.)
+
+## Graphics
+- [ ] Implement a rendering engine
+  - [ ] 2D rendering
+  - [ ] 3D rendering
+- [ ] Add texture support
+- [ ] Implement shaders
+- [ ] Add lighting models
+
+## Physics
+- [ ] Implement basic collision detection
+- [ ] Add physics simulation (gravity, forces, etc.)
+
+## Audio
+- [ ] Implement audio engine
+- [ ] Add support for background music and sound effects
+
+## Input
+- [ ] Implement input handling
+  - [ ] Keyboard
+  - [ ] Mouse
+  - [ ] Gamepad
+
+## Networking
+- [ ] Implement basic networking capabilities
+- [ ] Add multiplayer support
+
+## Scripting
+- [ ] Implement a scripting language or API for game logic
+- [ ] Create a set of basic game objects and behaviors
+
+## Tools
+- [ ] Develop level editor
+- [ ] Create asset pipeline tools
+
+## Testing
+- [ ] Write unit tests for core components
+- [ ] Perform integration tests
+- [ ] Optimize for performance
+
+## Documentation
+- [ ] Write API documentation
+- [ ] Create tutorials and guides
+
+## Deployment
+- [ ] Implement build system for different platforms
+- [ ] Create installer packages
+
+## Extras
+- [ ] Add AI capabilities
+- [ ] Implement save/load game states
+- [ ] Add VR support
+
+## Final Steps
+- [ ] Debug and fix issues
+- [ ] Optimize code
+- [ ] Release beta version for testing
+- [ ] Launch the engine
