@@ -4,3 +4,9 @@ Sandbox/zig-cache/
 Sandbox/zig-out/
 Sandbox/build copy.zig
 Mithril/build copy.zig
+.vscode/
+.gitignore
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
