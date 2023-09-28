@@ -1,9 +1,5 @@
-Mithril/zig-cache/
-Mithril/zig-out/
-Sandbox/zig-cache/
-Sandbox/zig-out/
-Sandbox/build copy.zig
-Mithril/build copy.zig
+zig-cache/
+zig-out/
 .vscode/
 .gitignore
 .vscode/c_cpp_properties.json
